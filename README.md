@@ -1,2 +1,2 @@
 # ITDM
-Code for ITDM training
+Code for ITRA training
